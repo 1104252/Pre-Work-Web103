@@ -6,7 +6,7 @@ Submitted by: Saimon Alam
 
 Time spent: 8 hours spent in total
 
-Link to project: https://effortless-cendol-dc42b1.netlify.app
+Link to project: https://eclectic-croissant-8f1629.netlify.app
 
 ## Required Functionality
 
