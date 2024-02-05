@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![ezgif com-gif-maker](https://recordit.co/gLQR5ftUu5.gif)
+[ezgif com-gif-maker](https://recordit.co/gLQR5ftUu5.gif)
 
 
 
