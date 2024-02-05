@@ -6,7 +6,7 @@ Submitted by: Saimon Alam
 
 Time spent: 8 hours spent in total
 
-Link to project: https://glitch.com/edit/#!/light-and-sound-memory-gamee 
+Link to project: https://effortless-cendol-dc42b1.netlify.app
 
 ## Required Functionality
 
@@ -41,6 +41,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/67721504/160639394-45064217-cd00-4ebe-80ba-8e595d00d1fe.gif)
+![ezgif com-gif-maker](https://recordit.co/KsgsaG7TzW)
 
 
 
