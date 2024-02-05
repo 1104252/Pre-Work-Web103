@@ -58,24 +58,3 @@ I do not have any specific questions related to the coding part. Even though I h
 If I had more time to work on the project I would some other features in the project like counting the score and adding different gifts to the winner. Also, I would add the highest score to show in the result and compare it with the score of the current player. Also, I would add some other features for a better user interface. This would help the player may be to find the game more attractive. Another thing that I think would make the game more interesting is to make it where they can play the game with more than one person and friends can play with each other and make competitor games. 
 
 
-
-## Interview Recording URL Link
-
-https://www.loom.com/share/4fb0d5e78b2349c99b65813470e6ec9a
-
-
-## License
-
-    Copyright Faton Haxhiu
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
